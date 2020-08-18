@@ -1,4 +1,3 @@
-# spthorn.github.io
 Blog goes here.
 
 
